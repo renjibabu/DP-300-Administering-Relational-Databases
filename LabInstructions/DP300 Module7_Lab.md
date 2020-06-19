@@ -4,7 +4,7 @@
 
 **Pre-requisites**: The Azure SQL Database used by Exercise 2 was created in the lab for Module 3. 
 
-**Lab files**: There are no files for this lab.
+**Lab files**: The files for this lab are located in the D:\Labfiles\High Availability folder.
 
 # Lab overview
 
